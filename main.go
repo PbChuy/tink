@@ -16,6 +16,7 @@ func init() {
 	}
 }
 
+// im jesus and i am such a bad programmer its actually insane
 func main() {
 	services.ConnectDiscord(events.Events)
 
